@@ -13,9 +13,6 @@ HarmonyOS
 比亚迪
 王传福
 
-大疆
-DJI
-
 宇树
 王兴兴
 
@@ -24,15 +21,9 @@ DJI
 稚晖君
 彭志辉
 
-京东
-刘强东
-
 字节
 bytedance
 张一鸣
-
-特斯拉
-马斯克
 
 微软
 Microsoft
@@ -54,11 +45,6 @@ sora
 
 claude
 Anthropic
-
-iphone
-ipad
-mac
-ios
 
 ai
 !gai
